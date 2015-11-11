@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/res" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/RMIServer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/client/RMIClient.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/service/YWeatherRMI.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

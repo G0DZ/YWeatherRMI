@@ -1,0 +1,10 @@
+city=Санкт-Петербург
+country=Россия
+time=2015-11-07T00:00:00
+temperature=3
+weatherType=пасмурно
+windDirection=s
+windSpeed=2.0
+humidity=86
+pressure=769
+imageName=ovc
